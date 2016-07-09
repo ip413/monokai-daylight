@@ -11,11 +11,11 @@
     <key>gutterSettings</key>
     <dict>
         <key>background</key>
-        <string>#fafafa</string>
+        <string>#ffffff</string>
         <key>divider</key>
         <string>#666666</string>
         <key>foreground</key>
-        <string>#222222</string>
+        <string>#111111</string>
         <key>selectionBackground</key>
         <string>#ededed</string>
         <key>selectionForeground</key>
@@ -33,7 +33,7 @@
                 <key>activeGuide</key>
                 <string>#7fb11b</string>
                 <key>background</key>
-                <string>#fafafa</string>
+                <string>#fefefe</string>
                 <key>bracketContentsForeground</key>
                 <string>#fe003c</string>
                 <key>bracketContentsOptions</key>
@@ -49,7 +49,7 @@
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
                 <key>foreground</key>
-                <string>#49483e</string>
+                <string>#333333</string>
                 <key>invisibles</key>
                 <string>#999999</string>
                 <key>lineHighlight</key>
@@ -955,7 +955,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#fe003cff</string>
+                <string>#e11a1a</string>
             </dict>
         </dict>
         <dict>
